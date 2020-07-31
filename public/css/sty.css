@@ -1,0 +1,40 @@
+.ali {
+    background-color: darkgrey;
+    overflow: hidden;
+}
+.ali  ul{
+    list-style: none;
+}
+
+
+.ali  ul li{
+    float: left;
+    text-decoration: none;
+    padding: 10px;
+}
+ .drop{
+    background-color: darkmagenta;
+    list-style: none;
+}
+.drop li{
+    float: left;
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+}
+.image{
+    overflow: hidden;
+    float: right;
+}
+.image img{
+    width: 200px;
+   
+    padding: 10px;
+}
+table tr td img{
+    width: 100px;
+}
+ table .main img{
+    background-color: blue;
+    width: 20px;
+}
